@@ -11,8 +11,8 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				"dark-layer-1": "rgb(40,40,40)",
-				"dark-layer-2": "rgb(26,26,26)",
+				"dark-layer-1": "rgb(33, 20, 83)",
+				"dark-layer-2": "rgb(53, 33, 126)",
 				"dark-label-2": "rgba(239, 241, 246, 0.75)",
 				"dark-divider-border-2": "rgb(61, 61, 61)",
 				"dark-fill-2": "hsla(0,0%,100%,.14)",
@@ -26,8 +26,8 @@ module.exports = {
 				"dark-yellow": "rgb(255 192 30)",
 				"dark-pink": "rgb(255 55 95)",
 				olive: "rgb(0, 184, 163)",
-				"dark-green-s": "rgb(44 187 93)",
-				"dark-blue-s": "rgb(10 132 255)",
+				"dark-green-s": "rgb(13, 216, 0)",
+				"dark-blue-s": "rgb(10,132,255)",
 			},
 		},
 	},

@@ -32,17 +32,17 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-	background: #282828;
+	background: rgb(52, 39, 99);
 }
 
 ::-webkit-scrollbar-thumb {
-	background: #4d4d4d;
+	background: #ff9f05;
 }
 
 /* CODE EDITOR*/
 .cm-scroller,
 .cm-gutters {
-	background-color: #282828 !important;
+	background-color: #0c005d !important;
 }
 .cm-focused {
 	outline: none !important;
@@ -54,7 +54,7 @@ body {
 }
 
 .gutter {
-	background-color: rgb(26, 26, 26);
+	background-color: rgb(53, 33, 126);
 	background-repeat: no-repeat;
 	background-position: 50%;
 }
